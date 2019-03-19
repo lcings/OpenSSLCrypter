@@ -3,13 +3,15 @@ Android AES Crypter With Salt
 
 安卓实现AES加盐的Crypter
 
-无缝对接AES加密解密:
-http://tool.chinaz.com/Tools/textencrypt.aspx
-http://tool.oschina.net/encrypt
-https://www.sojson.com/encrypt_aes.html
-http://encode.chahuo.com/
+##无缝对接如下AES模块:
 
-Sample:
+####["http://tool.chinaz.com/Tools/textencrypt.aspx"](http://tool.chinaz.com/Tools/textencrypt.aspx)
+####["http://tool.oschina.net/encrypt"](http://tool.oschina.net/encrypt)
+####["https://www.sojson.com/encrypt_aes.html"](https://www.sojson.com/encrypt_aes.html)
+####["http://encode.chahuo.com/"](http://encode.chahuo.com/)
+
+##Sample:
+
     String passwd = "123456";
     String str = "Hello,OpenSSLCrypter!";
     String enco = "U2FsdGVkX1/QIsEdaQjeI8urDkQ+J8haqoODH1P5ouxr3A0/FVehqydZXaDVtOOn";
